@@ -22,12 +22,21 @@ Cuatro preguntas de negocio resueltas con SQL avanzado en PostgreSQL sobre el Pa
 
 [Ver dashboard interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTE4OWRjMDAtMGMwYy00NTM1LThiNjItNjhkZTg2YzU2YTgzIiwidCI6ImE4MDFlMWIwLWI3OGQtNGNjNS1hYWIyLWYzMmJhM2JjYWU3YiIsImMiOjR9)
 
-<!-- Quita las marcas de comentario cuando subas las capturas a assets/
-[![Mortalidad empresarial](assets/01_mortalidad.png)](https://app.powerbi.com/view?r=eyJrIjoiMTE4OWRjMDAtMGMwYy00NTM1LThiNjItNjhkZTg2YzU2YTgzIiwidCI6ImE4MDFlMWIwLWI3OGQtNGNjNS1hYWIyLWYzMmJhM2JjYWU3YiIsImMiOjR9)
-![Densidad por distrito](assets/02_densidad.png)
-![Domicilio no ubicable](assets/03_domicilio.png)
-![Concentración por departamento](assets/04_concentracion.png)
--->
+## Dashboard
+
+[Ver dashboard interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTE4OWRjMDAtMGMwYy00NTM1LThiNjItNjhkZTg2YzU2YTgzIiwidCI6ImE4MDFlMWIwLWI3OGQtNGNjNS1hYWIyLWYzMmJhM2JjYWU3YiIsImMiOjR9)
+
+### Mortalidad empresarial por departamento
+![Mortalidad empresarial por departamento](assets/01_mortalidad_departamento.png)
+
+### Densidad de empresas activas por distrito
+![Densidad de empresas activas por distrito](assets/02_densidad_distrital.png)
+
+### Domicilio no ubicable
+![Condición de domicilio no ubicable](assets/03_condicion_domicilio.png)
+
+### Concentración de empresas activas por departamento
+![Concentración de empresas activas por departamento](assets/04_top_departamentos_activas.png)
 
 ## Stack
 
