@@ -47,7 +47,7 @@ Ubigeo (INEI, .csv)      ──────────────────�
 
 ## Fuentes de datos
 
-- Padrón Reducido RUC, SUNAT: https://www.sunat.gob.pe/descargaPRR/mrc137_padron_reducido.html (datos con corte al [FECHA DE TU DESCARGA])
+- Padrón Reducido RUC, SUNAT: https://www.sunat.gob.pe/descargaPRR/mrc137_padron_reducido.html (datos con corte al 28/09/2026)
 - Ubigeo, INEI, vía el repositorio geodir/ubigeo-peru: https://github.com/geodir/ubigeo-peru
 
 Los datos crudos no se incluyen en este repositorio. Detalle en [data/README.md](data/README.md).
