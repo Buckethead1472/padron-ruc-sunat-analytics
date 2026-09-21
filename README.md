@@ -72,5 +72,4 @@ La carga del padrón requirió resolver un separador sobrante en cada línea, co
 
 ## Autor
 
-Yamil Nair Solis Diaz, ingeniero de sistemas e informática.
-[LinkedIn](https://www.linkedin.com/in/yamilnsolisdiaz-data/)
+Yamil Nair Solis Diaz · [LinkedIn](https://www.linkedin.com/in/yamilnsolisdiaz-data/)
