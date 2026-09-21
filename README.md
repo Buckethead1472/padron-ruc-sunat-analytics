@@ -13,10 +13,10 @@ Cuatro preguntas de negocio resueltas con SQL avanzado en PostgreSQL sobre el Pa
 
 | # | Pregunta | Stakeholder | Técnica SQL | Query | Insight |
 |---|----------|-------------|-------------|-------|---------|
-| 1 | ¿Qué departamentos tienen mayor mortalidad empresarial? | Riesgo crediticio | CTEs encadenadas, `FILTER`, `ROW_NUMBER`, `CROSS JOIN` con promedio ponderado | [SQL](sql/01_mortalidad_departamento.sql) | [Ver](Insight/01_mortalidad_departamento.md) |
-| 2 | ¿Qué distritos tienen mayor densidad de empresas activas por cada 1,000 habitantes? | Expansión retail | `ROW_NUMBER() OVER (PARTITION BY ...)` para top 3 por departamento | [SQL](sql/02_densidad_distrital.sql) | [Ver](Insight/02_densidad_distrital.md) |
-| 3 | ¿Dónde es más urgente actualizar domicilios fiscales? | Fiscalización (SUNAT) | Varios `COUNT(*) FILTER` cruzando dos condiciones, `NULLIF` | [SQL](sql/03_condicion_domicilio.sql) | [Ver](Insight/03_condicion_domicilio.md) |
-| 4 | ¿Cómo se concentran las empresas activas por departamento? | Ventas B2B | `SUM() OVER ()` sin partición, porcentaje sobre el total nacional | [SQL](sql/04_top_departamentos_activas.sql) | [Ver](Insight/04_top_departamentos_activas.md) |
+| 1 | ¿Qué departamentos tienen mayor mortalidad empresarial? | Riesgo crediticio | CTEs encadenadas, `FILTER`, `ROW_NUMBER`, `CROSS JOIN` con promedio ponderado | [SQL](sql/01_mortalidad_departamento.sql) | [Ver](insight/01_mortalidad_departamento.md) |
+| 2 | ¿Qué distritos tienen mayor densidad de empresas activas por cada 1,000 habitantes? | Expansión retail | `ROW_NUMBER() OVER (PARTITION BY ...)` para top 3 por departamento | [SQL](sql/02_densidad_distrital.sql) | [Ver](insight/02_densidad_distrital.md) |
+| 3 | ¿Dónde es más urgente actualizar domicilios fiscales? | Fiscalización (SUNAT) | Varios `COUNT(*) FILTER` cruzando dos condiciones, `NULLIF` | [SQL](sql/03_condicion_domicilio.sql) | [Ver](insight/03_condicion_domicilio.md) |
+| 4 | ¿Cómo se concentran las empresas activas por departamento? | Ventas B2B | `SUM() OVER ()` sin partición, porcentaje sobre el total nacional | [SQL](sql/04_top_departamentos_activas.sql) | [Ver](insight/04_top_departamentos_activas.md) |
 
 ## Dashboard
 
