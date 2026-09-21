@@ -22,10 +22,6 @@ Cuatro preguntas de negocio resueltas con SQL avanzado en PostgreSQL sobre el Pa
 
 [Ver dashboard interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTE4OWRjMDAtMGMwYy00NTM1LThiNjItNjhkZTg2YzU2YTgzIiwidCI6ImE4MDFlMWIwLWI3OGQtNGNjNS1hYWIyLWYzMmJhM2JjYWU3YiIsImMiOjR9)
 
-## Dashboard
-
-[Ver dashboard interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTE4OWRjMDAtMGMwYy00NTM1LThiNjItNjhkZTg2YzU2YTgzIiwidCI6ImE4MDFlMWIwLWI3OGQtNGNjNS1hYWIyLWYzMmJhM2JjYWU3YiIsImMiOjR9)
-
 ### Mortalidad empresarial por departamento
 ![Mortalidad empresarial por departamento](assets/01_mortalidad_departamento.png)
 
